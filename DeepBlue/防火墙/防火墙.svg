@@ -1,0 +1,30 @@
+<svg width="70" height="119" viewBox="0 0 70 119" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 3L64 33V112L12 82L12 3Z" fill="#1E3D89" fill-opacity="0.8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M70 30L64 33V112L70 109V30Z" fill="#1E3B89"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18 0L70 30L64 33L12 3L18 0Z" fill="#1E3C89" fill-opacity="0.7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 15L64 45V56L12 26V15ZM12 38L64 68V79L12 49V38ZM64 91L12 61V72L64 102V91Z" fill="#C31B21"/>
+<path opacity="0.867443" fill-rule="evenodd" clip-rule="evenodd" d="M70 42L64 45V56L70 53V42ZM70 65L64 68V79L70 76V65ZM64 91L70 88V99L64 102V91Z" fill="#C31B21"/>
+<g filter="url(#filter0_b_53_1601)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 10L52 40V119L0 89L0 10Z" fill="#1E3D89" fill-opacity="0.8"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58 37L52 40V119L58 116V37Z" fill="#1E3B89"/>
+<g filter="url(#filter1_b_53_1601)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 7L58 37L52 40L0 10L6 7Z" fill="#1E3C89" fill-opacity="0.7"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 22L52 52V63L0 33V22ZM0 45L52 75V86L0 56V45ZM52 98L0 68V79L52 109V98Z" fill="#C31B21"/>
+<path opacity="0.867443" fill-rule="evenodd" clip-rule="evenodd" d="M58 49L52 52V63L58 60V49ZM58 72L52 75V86L58 83V72ZM52 98L58 95V106L52 109V98Z" fill="#C31B21"/>
+<defs>
+<filter id="filter0_b_53_1601" x="-135.914" y="-125.914" width="323.828" height="380.828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="67.957"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_53_1601"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_53_1601" result="shape"/>
+</filter>
+<filter id="filter1_b_53_1601" x="-135.914" y="-128.914" width="329.828" height="304.828" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="67.957"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_53_1601"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_53_1601" result="shape"/>
+</filter>
+</defs>
+</svg>
